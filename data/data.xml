@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+<!--
+          <record id="data0" model="my_module_demo.my_module_demo">
+            <field name="name">data 0</field>
+            <field name="value">0</field>
+          </record>
+
+          <record id="data1" model="my_module_demo.my_module_demo">
+            <field name="name">data 1</field>
+            <field name="value">10</field>
+          </record>
+
+          <record id="data2" model="my_module_demo.my_module_demo">
+            <field name="name">data 2</field>
+            <field name="value">20</field>
+          </record>
+
+          <record id="data3" model="my_module_demo.my_module_demo">
+            <field name="name">data 3</field>
+            <field name="value">30</field>
+          </record>
+
+          <record id="data4" model="my_module_demo.my_module_demo">
+            <field name="name">data 4</field>
+            <field name="value">40</field>
+          </record>
+-->
+    </data>
+</odoo>
